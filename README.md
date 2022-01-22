@@ -4,6 +4,6 @@ Basically the way this works is that you have a premade phrase, but nouns, adjec
 
 It makes for a surprisingly fun  game.
 
-It then does a case switch and for every case it returns a Console.ReadLine with the madlib and string concatenation.
+Check ``Program.cs`` in the ``src`` file to see how it actually works.
 
 To run, download the release and double click ``MadLibs.exe``

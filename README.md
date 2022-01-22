@@ -1,6 +1,8 @@
 # TerminaLibs
 
-Basically the way this works is that it generates a random number from 0 to 5, so 5 possible combinations
+Basically the way this works is that you have a premade phrase, but nouns, adjective, pronouns, and other words are variables that the users can input. 
+
+It makes for a surprisingly fun  game.
 
 It then does a case switch and for every case it returns a Console.ReadLine with the madlib and string concatenation.
 

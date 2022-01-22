@@ -1,7 +1,10 @@
 # TerminaLibs
 
-Basically the way this works is that it generates a random number from 0 to 5, so 5 possible combinations
+Basically the way this works is that you have an integer called ``num``, and that dictates what path you take
+``num`` is declared from user input or it's generated randomly, depending on what the user chooses 
 
-It then does a case switch and for every case it returns a Console.ReadLine with the madlib and string concatenation.
+It then does a switch case and for every case it returns a Console.ReadLine with the madlib and string concatenation
+
+It has a duplication check in place, so no back to back dupes
 
 To run, download the release and double click ``MadLibs.exe``

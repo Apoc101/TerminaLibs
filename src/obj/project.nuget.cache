@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "1mubQrVNnCmgN5MN+u+9IQZs48Av2DVTCnPGwrH1XlY1+CE7RIulNaMc+ishaYifm0yVIjdKllms1us9WwCXew==",
+  "dgSpecHash": "XtPUKsYceUZS+GDn2+qatoGNy3BOmxwxSU010Kkt7XAfBY0Iief7n5PUicyIM34DPgIn6MBkIfyqN+4nra27LA==",
   "success": true,
   "projectFilePath": "C:\\Users\\gabri\\Documents\\GitHub\\TerminaLibs\\src\\MadLibs.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

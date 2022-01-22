@@ -1,0 +1,5 @@
+C:\Users\gabri\Documents\GitHub\TerminaLibs\MadLibsV2\MadLibs.exe
+C:\Users\gabri\Documents\GitHub\TerminaLibs\MadLibsV2\MadLibs.dll
+C:\Users\gabri\Documents\GitHub\TerminaLibs\MadLibsV2\MadLibs.deps.json
+C:\Users\gabri\Documents\GitHub\TerminaLibs\MadLibsV2\MadLibs.runtimeconfig.json
+C:\Users\gabri\Documents\GitHub\TerminaLibs\MadLibsV2\MadLibs.pdb

@@ -1,0 +1,5 @@
+C:\Users\gabri\Documents\MadLibs\MadLibs.exe
+C:\Users\gabri\Documents\MadLibs\MadLibs.dll
+C:\Users\gabri\Documents\MadLibs\MadLibs.deps.json
+C:\Users\gabri\Documents\MadLibs\MadLibs.runtimeconfig.json
+C:\Users\gabri\Documents\MadLibs\MadLibs.pdb

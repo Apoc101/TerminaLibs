@@ -6,4 +6,6 @@ It makes for a surprisingly fun  game.
 
 Check ``Program.cs`` in the ``src`` file to see how it actually works.
 
+# You need .NET 5.0 to run the EXE
+
 To run, download the release and double click ``MadLibs.exe``

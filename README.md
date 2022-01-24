@@ -1,5 +1,7 @@
 # TerminaLibs
 Check ``main`` branch for explanation
 
-To run, extract the zip and run MadLibs.exe
+# You need .NET 5.0 to run the EXE
+
+To run, extract the zip and run ``MadLibs.exe``
 

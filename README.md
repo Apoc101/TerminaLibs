@@ -5,7 +5,7 @@
 
 Basically the way this works is that you have a premade phrase, but nouns, adjective, pronouns, and other words are variables that the users can input. 
 
-It makes for a surprisingly fun  game.
+I'm terrible at describing it, so if you want to know just how fun it is I recommend trying it out :)
 
 Check ``Program.cs`` in the ``src`` file to see how it actually works.
 

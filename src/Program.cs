@@ -10,7 +10,7 @@ namespace Madlibs
         {
             //                  Credit to Timo for inspiring me to make good code
             //                  and for teaching me that array lists are a thing.
-            //                  He saved my ass big time on performance.
+            //                  He saved my ass big time performance-wise.
             //                  Check him out at https://github.com/gotimo2
             // -Gabriel
 

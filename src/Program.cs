@@ -15,7 +15,7 @@ namespace Madlibs
             // -Gabriel
 
             Console.WriteLine("Welcome to TerminaLibs!");
-            Thread.Sleep(1500); //added for some feeling that what you're playing is humanlike
+            Thread.Sleep(1500); //added for some feeling that it's loading, obviously it slows down the program so remove it if you want 
             Console.WriteLine("\nSelect an option: \n'r' for random \n's' for select \n'n' for new\n ");
             string answer = Console.ReadLine();
             while (answer != "r" && answer != "s" && answer!= "n")

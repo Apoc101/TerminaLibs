@@ -12,7 +12,7 @@ namespace Madlibs
             //                  and for teaching me that lists are a thing + how they work.
             //                  He saved my ass big time performance-wise.
             //                  Check him out at https://github.com/gotimo2
-            // -Gabriel
+            // -Mortimer
 
             Console.WriteLine("Welcome to TerminaLibs!");
             Thread.Sleep(1500); //added for some feeling that it's loading, obviously it slows down the program so remove it if you want 

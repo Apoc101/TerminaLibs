@@ -1,7 +1,10 @@
 # TerminaLibs
 
-## You need .NET 6.0 to run the .exe
-### If you don't want to install .NET 6.0, use the .NET Framework version here: https://github.com/Apoc101/TerminaLibsCore
+> **Warning**
+> 
+> You need .NET 6.0 to run the .exe
+> 
+> If you don't want to install .NET 6.0, use the .NET Core version here: https://github.com/Apoc101/TerminaLibsCore (it uses preinstalled versions of .NET)
 
 Basically the way this works is that you have a premade phrase, but nouns, adjective, pronouns, and other words are variables that the users can input. 
 

@@ -1,6 +1,6 @@
 # TerminaLibs
 
-> **Warning**
+> **Warning**:
 > 
 > You need .NET 6.0 to run the .exe
 > 

@@ -12,5 +12,6 @@ I'm terrible at describing it, so if you want to know just how fun it is I recom
 
 Check ``Program.cs`` in the ``src`` file for the source code.
 
+Big thanks to Timo :))
 
 To run, download the latest release on the ``Releases`` section on the right, and double click ``MadLibs.exe``
